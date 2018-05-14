@@ -1,0 +1,16 @@
+{
+  "TreatmentMachines": [
+    {
+      "Name": "MachineA",
+      "Capability": "Advanced"
+    },
+    {
+      "Name": "MachineB",
+      "Capability": "Advanced"
+    },
+    {
+      "Name": "MachineC",
+      "Capability": "Simple"
+    }
+  ]
+}

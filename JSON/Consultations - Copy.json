@@ -1,0 +1,66 @@
+{
+	"Consultations": [
+			{
+				"Patient": {
+					"Name": "Patient_1",
+					"RegistrationDate": "20180401",
+					"Condition": {
+						"Diagnosis": "Flu"
+					}
+				},
+				"Doctor": {
+					"Name": "Anna",
+					"Roles": [
+						"GeneralPractitioner"
+					]
+				},
+				"Room": {
+					"Name": "RoomOne"
+				},
+				"ConsultationDate": "20180402"
+			},
+		{
+			"Patient": {
+				"Name": "Patient_2",
+				"RegistrationDate": "20180401",
+				"Condition": {
+					"Diagnosis": "Cancer",
+					"Topography": "Breast"
+				}
+			},
+			"Doctor": {
+				"Name": "John",
+				"Roles": [
+					"Oncologist"
+				]
+			},
+					"Room": {
+						"Name": "RoomThree",
+						"TreatmentMachine": "MachineA"
+					},
+			"ConsultationDate": "20180402"
+		},
+		{
+			"Patient": {
+				"Name": "Patient_3",
+				"RegistrationDate": "20180401",
+				"Condition": {
+					"Diagnosis": "Cancer",
+					"Topography": "Head & Neck"
+				}
+			},
+			"Doctor": {
+				"Name": "Laura",
+				"Roles": [
+					"Oncologist",
+					"GeneralPractitioner"
+				]
+			},
+					"Room": {
+						"Name": "RoomFour",
+						"TreatmentMachine": "MachineB"
+					},
+			"ConsultationDate": "20180402"
+		}
+	]
+}

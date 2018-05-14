@@ -1,0 +1,27 @@
+{
+	"Patients": [
+		{
+			"Name": "Patient_1",
+			"RegistrationDate": "20180401",
+			"Condition": {
+				"Diagnosis": "Flu"
+			}
+		},
+		{
+			"Name": "Patient_2",
+			"RegistrationDate": "20180402",
+			"Condition": {
+				"Diagnosis": "Cancer",
+				"Topography": "Breast"
+			}
+		},
+		{
+			"Name": "Patient_3",
+			"RegistrationDate": "20180403",
+			"Condition": {
+				"Diagnosis": "Cancer",
+				"Topography": "Head & Neck"
+			}
+		}
+	]
+}

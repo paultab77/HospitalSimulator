@@ -1,0 +1,37 @@
+{
+	"Consultations": [
+		{
+			"Patient": "Patient_1",
+			"PatientCondition": "Flu",
+			"PatientTopography": "",
+			"Doctor": "Anna",
+			"DoctorRole": "GeneralPractitioner",
+			"TreatmentRoom": "RoomOne",
+			"MachineName": "",
+			"MachineCapability": "",
+			"ConsultationDate": "20180420"
+		},
+		{
+			"Patient": "Patient_2",
+			"PatientCondition": "Flu",
+			"PatientTopography": "",
+			"Doctor": "Laura",
+			"DoctorRole": "Oncologist|GeneralPractitioner",
+			"TreatmentRoom": "RoomFive",
+			"MachineName": "MachineC",
+			"MachineCapability": "Advanced",
+			"ConsultationDate": "20180420"
+		},
+		{
+			"Patient": "Patient_3",
+			"PatientCondition": "Cancer",
+			"PatientTopography": "Breast",
+			"Doctor": "John",
+			"DoctorRole": "Oncologist",
+			"TreatmentRoom": "RoomThree",
+			"MachineName": "MachineC",
+			"MachineCapability": "Simple",
+			"ConsultationDate": "20180420"
+		}
+	]
+}

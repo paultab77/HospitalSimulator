@@ -1,0 +1,22 @@
+{
+  "TreatmentRooms": [
+    {
+      "Name": "RoomOne"
+    },
+    {
+      "Name": "RoomTwo"
+    },
+    {
+      "Name": "RoomThree",
+      "TreatmentMachine": "MachineA"
+    },
+    {
+      "Name": "RoomFour",
+      "TreatmentMachine": "MachineB"
+    },
+    {
+      "Name": "RoomFive",
+      "TreatmentMachine": "MachineC"
+    }
+  ]
+}
